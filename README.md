@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @simondeveloping
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Tech Stack 🚀
+- **Languages:** Java, Javascript, C#, SQL, CSS
+- **Frameworks:** Next.js, React, ASP.NET Core
+- **Tools:** Git, Docker, Visual Studio Code, PhpStorm, Intellij, Visual Studio
+- **Databases:** MySQL
 
-<!---
-simondeveloping/simondeveloping is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About Me 🌟
+- 💻 (Full-stack) Developer
+- 🌱 Currently exploring **Next.js** and **React**.
+- 🎯 My goal is to create impactful, user-friendly applications.
+- 📚 Always learning and improving my skills!
+
