@@ -1,5 +1,5 @@
 ### Tech Stack 🚀
-- **Languages:** Java, Javascript, C#, SQL, CSS
+- **Languages:** Java, Javascript, C#, SQL
 - **Frameworks:** Next.js, React, ASP.NET Core
 - **Tools:** Git, Docker, Visual Studio Code, PhpStorm, Intellij, Visual Studio
 - **Databases:** MySQL
