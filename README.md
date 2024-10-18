@@ -1,7 +1,7 @@
 ### Tech Stack 🚀
 - **Languages:** Java, Javascript, C#, SQL
 - **Frameworks:** Next.js, React, ASP.NET Core
-- **Tools:** Git, Docker, Visual Studio Code, PhpStorm, Intellij, Visual Studio
+- **Tools:** Git, Docker, Visual Studio Code, PhpStorm, Intellij, Visual Studio, Data Grip
 - **Databases:** MySQL
 
 ### About Me 🌟
